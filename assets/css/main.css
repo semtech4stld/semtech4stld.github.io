@@ -374,7 +374,7 @@ ul li {
   position: relative;
   text-align: center;
   /*background: url(../images/backgrounds/header.jpg) no-repeat center center/cover;*/
-  background: url(../images/Crete-Greece.jpeg) no-repeat center center/cover;
+  background: url(https://github.com/rima-turker/SemTech4LegalData/blob/main/assets/images/Crete-Greece.jpeg) no-repeat center center/cover;
   display: table;
 }
 .site-header::before {
