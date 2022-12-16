@@ -358,7 +358,7 @@ ul li {
   font-weight: 700;
   margin-right: 5px;
   letter-spacing: 3px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 .site-branding .logo:focus, .site-branding .logo:hover {
   text-decoration: none;
