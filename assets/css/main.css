@@ -387,26 +387,31 @@ ul li {
   background-color: rgba(0, 0, 0, 0.2);
 }
 .site-header .intro {
-  color: #fff;
+  color: white  /* #000000  #fff*/;
   position: relative;
   text-align: center;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   width: 100%;
   z-index: 1;
-  padding: 0 15px;
+  padding:  15px;
   display: table-cell;
   vertical-align: middle;
   height: 100vh;
 }
 .site-header .intro h2 {
-  margin-top: 0px;
-  font-size: 30px;
-  font-weight: 300;
+  /*padding-top: 50px;
+  
+  margin-bottom: 400px;*/
+
+  margin-top: 90px;
+  font-size: 35px;
+  font-weight: 1000;
 }
 .site-header .intro h1 {
   margin-top: 0px;
   font-size: 35px;
 }
+
 .site-header .intro p {
   font-size: 25px;
   margin-bottom: 10px;
