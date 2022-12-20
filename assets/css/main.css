@@ -31,9 +31,13 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6 {
   font-weight: 700;
+}
+
+h5 {
+  font-weight: 1010;
+  
 }
 
 p {
@@ -407,6 +411,7 @@ ul li {
   font-size: 35px;
   font-weight: 1000;
 }
+
 .site-header .intro h1 {
   margin-top: 0px;
   font-size: 35px;
