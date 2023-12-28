@@ -393,6 +393,14 @@ ul li {
   text-decoration: none;
 }
 
+header div h3 a{
+
+color: white;
+ text-decoration: underline
+
+
+}
+
 /* 
  * 5.0 Site Header
  */
