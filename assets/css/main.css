@@ -69,8 +69,8 @@ ul li {
 }
 
 #content-logo img {
-    width: 200px;
-    min-width: 10px;
+    max-width: 300px;
+    min-width: 30px;
     margin: 2%;
 }
 
@@ -394,12 +394,10 @@ ul li {
 }
 
 header div h3 a{
-
 color: white;
- text-decoration: underline
-
-
+text-decoration: underline
 }
+ 
 
 /* 
  * 5.0 Site Header
