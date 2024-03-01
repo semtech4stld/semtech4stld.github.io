@@ -68,6 +68,10 @@ ul li {
     */ 
 }
 
+.contact-us-abstract {
+  color: white;
+}
+
 #content-logo img {
     max-width: 300px;
     min-width: 30px;
