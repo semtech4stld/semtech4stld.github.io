@@ -79,7 +79,7 @@ ul li {
     /*max-width: 300px;
     min-width: 30px;
     margin: 2%;*/
-    width: 20%; /* Each image takes exactly 25% of the container width */
+    width: 18%; /* Each image takes exactly 25% of the container width */
     height: auto; /* Maintain aspect ratio */
     object-fit: contain; /* Ensures images do not stretch */
 }
