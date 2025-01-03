@@ -51,9 +51,12 @@ ul li {
 
 
 #content-logo {
+    display: flex;
     margin: auto;
-    width: 50%;
+    width: 80%;
     padding: 10px;
+    justify-content: space-between; /* Ensures even spacing */
+    align-items: center; /* Aligns images vertically */
 
     /*
     display: flex;
@@ -73,9 +76,12 @@ ul li {
 }
 
 #content-logo img {
-    max-width: 300px;
+    /*max-width: 300px;
     min-width: 30px;
-    margin: 2%;
+    margin: 2%;*/
+    width: 20%; /* Each image takes exactly 25% of the container width */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: contain; /* Ensures images do not stretch */
 }
 
 .custom-list-icon, .list-arrow-right {
