@@ -14,7 +14,7 @@ body {
   color: #4e4e4e;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.6;
   position: relative;
   -webkit-font-smoothing: antialiased;
@@ -348,7 +348,7 @@ ul li {
   margin: 0;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #000;
+  background-color: #d2602d; /* CHANGED from #000 to Orange */
   -webkit-transition: all 0.2s linear 0s;
           transition: all 0.2s linear 0s;
 }
@@ -359,7 +359,7 @@ ul li {
   color: #fff;
   text-transform: uppercase;
   font-size: 12px;
-  font-weight: 400;
+  font-weight: 600;
   border-bottom: 1px solid transparent;
 }
 .navbar-custom .navbar-nav > li > a:focus, .navbar-custom .navbar-nav > li > a:hover {
@@ -380,7 +380,7 @@ ul li {
 }
 
 .navbar-solid {
-  background-color: #000 !important;
+  background-color: #d2602d !important; /* CHANGED from #000 to Orange */
   padding: 0 !important;
   -webkit-transition: all 0.2s linear 0s;
           transition: all 0.2s linear 0s;
